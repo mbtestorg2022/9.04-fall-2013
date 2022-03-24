@@ -384,7 +384,7 @@ Auditory cortex, Part 2: Language; bats and echolocation
 
 \[AuditoryNeuro\] pp. 34–9, 139–52, and 161–4.
 
-Suga, N. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Biosonar and neural computation in bats (PDF – 1.5MB)](http://www.cog.brown.edu/courses/cg195/pdf_files/CG195Suga90.pdf)." _Scientific American_ 262 (1990): 60–8.
+Suga, N. "[Biosonar and neural computation in bats (PDF – 1.5MB)](http://www.cog.brown.edu/courses/cg195/pdf_files/CG195Suga90.pdf)." _Scientific American_ 262 (1990): 60–8.
 
 Caplan, D. T., and J. L. Gould. "Language and Communication—the part on human language." In _Fundamental Neuroscience_. 3rd ed. Edited by L. R. Squire, D. Berg, F. E. Bloom, et al. Academic Press, 2008, pp. 1184–98. ISBN: 9780123740199. \[Preview with [Google Books](http://books.google.com/books?id=GOxrtYzmixcC&pg=PA1184=onepage)\]
 
