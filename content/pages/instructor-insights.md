@@ -28,7 +28,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007/) or permission of the instructor.
+[_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007) or permission of the instructor.
 
 ### Requirements Satisfied
 
